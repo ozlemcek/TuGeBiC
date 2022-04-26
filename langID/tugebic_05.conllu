@@ -1,0 +1,680 @@
+1	İkisini	_	_	_	_	_	_	_	LangID=TR
+2	nasıl	_	_	_	_	_	_	_	LangID=TR
+3	karşılaştıracağız	_	_	_	_	_	_	_	LangID=TR
+4	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Şöyle	_	_	_	_	_	_	_	LangID=TR
+2	karşılaştır	_	_	_	_	_	_	_	LangID=TR
+3	:	_	_	_	_	_	_	_	LangID=OTHER
+4	İkisinden	_	_	_	_	_	_	_	LangID=TR
+5	bir	_	_	_	_	_	_	_	LangID=TR
+6	tanesini	_	_	_	_	_	_	_	LangID=TR
+7	seçeceksin	_	_	_	_	_	_	_	LangID=TR
+8	,	_	_	_	_	_	_	_	LangID=OTHER
+9	o	_	_	_	_	_	_	_	LangID=TR
+10	seçtiğin	_	_	_	_	_	_	_	LangID=TR
+11	nedenlerini	_	_	_	_	_	_	_	LangID=TR
+12	yazacaksın	_	_	_	_	_	_	_	LangID=TR
+13	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	F	_	_	_	_	_	_	_	LangID=DE
+2	:	_	_	_	_	_	_	_	LangID=OTHER
+3	Interne	_	_	_	_	_	_	_	LangID=DE
+4	,	_	_	_	_	_	_	_	LangID=OTHER
+5	externe§leri	_	_	_	_	_	_	_	LangID=MIXED
+6	yaz	_	_	_	_	_	_	_	LangID=TR
+7	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Yani	_	_	_	_	_	_	_	LangID=TR
+2	içinden	_	_	_	_	_	_	_	LangID=TR
+3	şeyleri	_	_	_	_	_	_	_	LangID=TR
+4	bulacağız	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Tabii	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	öyle	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	İkisinden	_	_	_	_	_	_	_	LangID=TR
+2	birini	_	_	_	_	_	_	_	LangID=TR
+3	mi	_	_	_	_	_	_	_	LangID=TR
+4	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bence	_	_	_	_	_	_	_	LangID=TR
+2	öyle	_	_	_	_	_	_	_	LangID=TR
+3	,	_	_	_	_	_	_	_	LangID=OTHER
+4	veya	_	_	_	_	_	_	_	LangID=TR
+5	karşılaştırma	_	_	_	_	_	_	_	LangID=TR
+6	yap	_	_	_	_	_	_	_	LangID=TR
+7	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Tabii	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	birini	_	_	_	_	_	_	_	LangID=TR
+4	beğeneceksin	_	_	_	_	_	_	_	LangID=TR
+5	,	_	_	_	_	_	_	_	LangID=OTHER
+6	Grund§unu	_	_	_	_	_	_	_	LangID=MIXED
+7	belirteceksin	_	_	_	_	_	_	_	LangID=TR
+8	,	_	_	_	_	_	_	_	LangID=OTHER
+9	niye	_	_	_	_	_	_	_	LangID=TR
+10	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	İkisini	_	_	_	_	_	_	_	LangID=TR
+2	karşılaştırarak	_	_	_	_	_	_	_	LangID=TR
+3	öğeleri	_	_	_	_	_	_	_	LangID=TR
+4	çıkartamazsın	_	_	_	_	_	_	_	LangID=TR
+5	ki	_	_	_	_	_	_	_	LangID=TR
+6	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bunda	_	_	_	_	_	_	_	LangID=TR
+2	şu	_	_	_	_	_	_	_	LangID=TR
+3	şu	_	_	_	_	_	_	_	LangID=TR
+4	Grund§lar	_	_	_	_	_	_	_	LangID=MIXED
+5	var	_	_	_	_	_	_	_	LangID=TR
+6	,	_	_	_	_	_	_	_	LangID=OTHER
+7	bunlar	_	_	_	_	_	_	_	LangID=TR
+8	açık	_	_	_	_	_	_	_	LangID=TR
+9	şekilde	_	_	_	_	_	_	_	LangID=TR
+10	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bunda	_	_	_	_	_	_	_	LangID=TR
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Das	_	_	_	_	_	_	_	LangID=DE
+2	wär'	_	_	_	_	_	_	_	LangID=DE
+3	ja	_	_	_	_	_	_	_	LangID=DE
+4	Lustig	_	_	_	_	_	_	_	LangID=DE
+5	ey	_	_	_	_	_	_	_	LangID=DE
+6	,	_	_	_	_	_	_	_	LangID=OTHER
+7	'ne	_	_	_	_	_	_	_	LangID=TR
+8	Tabelle	_	_	_	_	_	_	_	LangID=DE
+9	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Evet	_	_	_	_	_	_	_	LangID=TR
+2	öyle	_	_	_	_	_	_	_	LangID=TR
+3	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	İki	_	_	_	_	_	_	_	LangID=TR
+2	tane	_	_	_	_	_	_	_	LangID=TR
+3	Almanca	_	_	_	_	_	_	_	LangID=TR
+4	var	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Şunda	_	_	_	_	_	_	_	LangID=TR
+2	yok	_	_	_	_	_	_	_	LangID=TR
+3	diyeceksin	_	_	_	_	_	_	_	LangID=TR
+4	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Peki	_	_	_	_	_	_	_	LangID=TR
+2	birinci	_	_	_	_	_	_	_	LangID=TR
+3	dönem	_	_	_	_	_	_	_	LangID=TR
+4	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Birincisi	_	_	_	_	_	_	_	LangID=TR
+2	yine	_	_	_	_	_	_	_	LangID=TR
+3	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ana	_	_	_	_	_	_	_	LangID=TR
+2	maddeleri	_	_	_	_	_	_	_	LangID=TR
+3	bilin	_	_	_	_	_	_	_	LangID=TR
+4	de	_	_	_	_	_	_	_	LangID=TR
+5	,	_	_	_	_	_	_	_	LangID=OTHER
+6	gerisi	_	_	_	_	_	_	_	LangID=TR
+7	yine	_	_	_	_	_	_	_	LangID=TR
+8	de	_	_	_	_	_	_	_	LangID=TR
+9	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ama	_	_	_	_	_	_	_	LangID=TR
+2	neyin	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	ÜTA’nın	_	_	_	_	_	_	_	LangID=TR
+2	mı	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	ÜTA'nın	_	_	_	_	_	_	_	LangID=TR
+2	ana	_	_	_	_	_	_	_	LangID=TR
+3	maddelerini	_	_	_	_	_	_	_	LangID=TR
+4	mi	_	_	_	_	_	_	_	LangID=TR
+5	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Sende	_	_	_	_	_	_	_	LangID=TR
+2	birince	_	_	_	_	_	_	_	LangID=TR
+3	dönemin	_	_	_	_	_	_	_	LangID=TR
+4	var	_	_	_	_	_	_	_	LangID=TR
+5	mı	_	_	_	_	_	_	_	LangID=TR
+6	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	ÜTA	_	_	_	_	_	_	_	LangID=TR
+2	yok	_	_	_	_	_	_	_	LangID=TR
+3	herhalde	_	_	_	_	_	_	_	LangID=TR
+4	,	_	_	_	_	_	_	_	LangID=OTHER
+5	değil	_	_	_	_	_	_	_	LangID=TR
+6	mi	_	_	_	_	_	_	_	LangID=TR
+7	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Öyle	_	_	_	_	_	_	_	LangID=TR
+2	dedi	_	_	_	_	_	_	_	LangID=TR
+3	yani	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	F	_	_	_	_	_	_	_	LangID=DE
+2	:	_	_	_	_	_	_	_	LangID=OTHER
+3	Externe	_	_	_	_	_	_	_	LangID=DE
+4	,	_	_	_	_	_	_	_	LangID=OTHER
+5	interne	_	_	_	_	_	_	_	LangID=DE
+6	yapacağız	_	_	_	_	_	_	_	LangID=TR
+7	herhalde	_	_	_	_	_	_	_	LangID=TR
+8	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	F	_	_	_	_	_	_	_	LangID=DE
+2	:	_	_	_	_	_	_	_	LangID=OTHER
+3	Bilmiyorum	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	F	_	_	_	_	_	_	_	LangID=DE
+2	:	_	_	_	_	_	_	_	LangID=OTHER
+3	İnsan	_	_	_	_	_	_	_	LangID=TR
+4	bir	_	_	_	_	_	_	_	LangID=TR
+5	kere	_	_	_	_	_	_	_	LangID=TR
+6	söyler	_	_	_	_	_	_	_	LangID=TR
+7	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Muhittin	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	çeviriye	_	_	_	_	_	_	_	LangID=TR
+4	girdin	_	_	_	_	_	_	_	LangID=TR
+5	mi	_	_	_	_	_	_	_	LangID=TR
+6	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	İyi	_	_	_	_	_	_	_	LangID=TR
+2	de	_	_	_	_	_	_	_	LangID=TR
+3	çeviri	_	_	_	_	_	_	_	LangID=TR
+4	son	_	_	_	_	_	_	_	LangID=TR
+5	değil	_	_	_	_	_	_	_	LangID=TR
+6	mi	_	_	_	_	_	_	_	LangID=TR
+7	zaten	_	_	_	_	_	_	_	LangID=TR
+8	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Evet	_	_	_	_	_	_	_	LangID=TR
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Eee	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	tamam	_	_	_	_	_	_	_	LangID=TR
+4	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bütünlemeye	_	_	_	_	_	_	_	LangID=TR
+2	kalmak	_	_	_	_	_	_	_	LangID=TR
+3	istemiyor	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Kalmak	_	_	_	_	_	_	_	LangID=TR
+2	istemiyor	_	_	_	_	_	_	_	LangID=TR
+3	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Guck	_	_	_	_	_	_	_	LangID=DE
+2	mal	_	_	_	_	_	_	_	LangID=DE
+3	,	_	_	_	_	_	_	_	LangID=OTHER
+4	soruları	_	_	_	_	_	_	_	LangID=TR
+5	veriyor	_	_	_	_	_	_	_	LangID=TR
+6	,	_	_	_	_	_	_	_	LangID=OTHER
+7	birisi	_	_	_	_	_	_	_	LangID=TR
+8	çeviriyi	_	_	_	_	_	_	_	LangID=TR
+9	yapmış	_	_	_	_	_	_	_	LangID=TR
+10	,	_	_	_	_	_	_	_	LangID=OTHER
+11	bilmediği	_	_	_	_	_	_	_	LangID=TR
+12	yerlere	_	_	_	_	_	_	_	LangID=TR
+13	nokta	_	_	_	_	_	_	_	LangID=TR
+14	nokta	_	_	_	_	_	_	_	LangID=TR
+15	,	_	_	_	_	_	_	_	LangID=OTHER
+16	devam	_	_	_	_	_	_	_	LangID=TR
+17	etmiş	_	_	_	_	_	_	_	LangID=TR
+18	ve	_	_	_	_	_	_	_	LangID=TR
+19	geçiyor	_	_	_	_	_	_	_	LangID=TR
+20	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bak	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	şey	_	_	_	_	_	_	_	LangID=TR
+4	ikisini	_	_	_	_	_	_	_	LangID=TR
+5	de	_	_	_	_	_	_	_	LangID=TR
+6	uygulayacakmışız	_	_	_	_	_	_	_	LangID=TR
+7	ve	_	_	_	_	_	_	_	LangID=TR
+8	aradaki	_	_	_	_	_	_	_	LangID=TR
+9	farkı	_	_	_	_	_	_	_	LangID=TR
+10	çıkaracağız	_	_	_	_	_	_	_	LangID=TR
+11	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Yöntem	_	_	_	_	_	_	_	LangID=TR
+2	mi	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Dördüncü	_	_	_	_	_	_	_	LangID=TR
+2	sınıf	_	_	_	_	_	_	_	LangID=TR
+3	mı	_	_	_	_	_	_	_	LangID=TR
+4	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Nee	_	_	_	_	_	_	_	LangID=DE
+2	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Fazla	_	_	_	_	_	_	_	LangID=TR
+2	mı	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Yok	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	ikinci	_	_	_	_	_	_	_	LangID=TR
+4	sınıf	_	_	_	_	_	_	_	LangID=TR
+5	olsaydı	_	_	_	_	_	_	_	LangID=TR
+6	uçardım	_	_	_	_	_	_	_	LangID=TR
+7	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Hoca	_	_	_	_	_	_	_	LangID=TR
+2	kitabı	_	_	_	_	_	_	_	LangID=TR
+3	bitirmiş	_	_	_	_	_	_	_	LangID=TR
+4	zaten	_	_	_	_	_	_	_	LangID=TR
+5	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ist	_	_	_	_	_	_	_	LangID=DE
+2	doch	_	_	_	_	_	_	_	LangID=DE
+3	nichts	_	_	_	_	_	_	_	LangID=DE
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	30	_	_	_	_	_	_	_	LangID=TR
+2	Seiten	_	_	_	_	_	_	_	LangID=DE
+3	man	_	_	_	_	_	_	_	LangID=DE
+4	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Şey	_	_	_	_	_	_	_	LangID=TR
+2	dördüncü	_	_	_	_	_	_	_	LangID=TR
+3	sınıfın	_	_	_	_	_	_	_	LangID=TR
+4	karşı	_	_	_	_	_	_	_	LangID=TR
+5	bu	_	_	_	_	_	_	_	LangID=TR
+6	mu	_	_	_	_	_	_	_	LangID=TR
+7	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bu	_	_	_	_	_	_	_	LangID=TR
+2	ne	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bu	_	_	_	_	_	_	_	LangID=TR
+2	İnkılap	_	_	_	_	_	_	_	LangID=TR
+3	erste	_	_	_	_	_	_	_	LangID=DE
+4	Klasse	_	_	_	_	_	_	_	LangID=DE
+
+1	Ach	_	_	_	_	_	_	_	LangID=DE
+2	nein	_	_	_	_	_	_	_	LangID=DE
+3	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Das	_	_	_	_	_	_	_	LangID=DE
+2	kann	_	_	_	_	_	_	_	LangID=DE
+3	ich	_	_	_	_	_	_	_	LangID=DE
+4	gar	_	_	_	_	_	_	_	LangID=DE
+5	nicht	_	_	_	_	_	_	_	LangID=DE
+6	glauben	_	_	_	_	_	_	_	LangID=DE
+7	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Außerdem	_	_	_	_	_	_	_	LangID=DE
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Evet	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	onları	_	_	_	_	_	_	_	LangID=TR
+4	zaten	_	_	_	_	_	_	_	LangID=TR
+5	biliyorum	_	_	_	_	_	_	_	LangID=TR
+6	zaten	_	_	_	_	_	_	_	LangID=TR
+7	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Neleri	_	_	_	_	_	_	_	LangID=TR
+2	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Externe	_	_	_	_	_	_	_	LangID=DE
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	interne	_	_	_	_	_	_	_	LangID=DE
+4	Faktoren	_	_	_	_	_	_	_	LangID=DE
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Das	_	_	_	_	_	_	_	LangID=DE
+2	ist	_	_	_	_	_	_	_	LangID=DE
+3	doch	_	_	_	_	_	_	_	LangID=DE
+4	doof	_	_	_	_	_	_	_	LangID=DE
+5	ey	_	_	_	_	_	_	_	LangID=DE
+6	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Aşağısı	_	_	_	_	_	_	_	LangID=TR
+2	çok	_	_	_	_	_	_	_	LangID=TR
+3	mu	_	_	_	_	_	_	_	LangID=TR
+4	dolu	_	_	_	_	_	_	_	LangID=TR
+5	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Orada	_	_	_	_	_	_	_	LangID=TR
+2	çektirsek	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Çektiremezsiniz	_	_	_	_	_	_	_	LangID=TR
+2	aşağıda	_	_	_	_	_	_	_	LangID=TR
+3	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bir	_	_	_	_	_	_	_	LangID=TR
+2	dakika	_	_	_	_	_	_	_	LangID=TR
+3	,	_	_	_	_	_	_	_	LangID=OTHER
+4	bizim	_	_	_	_	_	_	_	LangID=TR
+5	kızlar	_	_	_	_	_	_	_	LangID=TR
+6	çektiriyor	_	_	_	_	_	_	_	LangID=TR
+7	aşağıda	_	_	_	_	_	_	_	LangID=TR
+8	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Onların	_	_	_	_	_	_	_	LangID=TR
+2	eline	_	_	_	_	_	_	_	LangID=TR
+3	verelim	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Evet	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	onlar	_	_	_	_	_	_	_	LangID=TR
+4	çektiriyor	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Dışarıda	_	_	_	_	_	_	_	LangID=TR
+2	çektirin	_	_	_	_	_	_	_	LangID=TR
+3	,	_	_	_	_	_	_	_	LangID=OTHER
+4	draußen	_	_	_	_	_	_	_	LangID=DE
+5	aynı	_	_	_	_	_	_	_	LangID=TR
+6	fiyat	_	_	_	_	_	_	_	LangID=TR
+7	,	_	_	_	_	_	_	_	LangID=OTHER
+8	aynı	_	_	_	_	_	_	_	LangID=TR
+9	fiyat	_	_	_	_	_	_	_	LangID=TR
+10	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Satamazsa	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	alırız	_	_	_	_	_	_	_	LangID=TR
+4	ondan	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Tamam	_	_	_	_	_	_	_	LangID=TR
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Koray’a	_	_	_	_	_	_	_	LangID=TR
+2	ver	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ich	_	_	_	_	_	_	_	LangID=DE
+2	hab'	_	_	_	_	_	_	_	LangID=DE
+3	ich	_	_	_	_	_	_	_	LangID=DE
+4	hab	_	_	_	_	_	_	_	LangID=DE
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Hadi	_	_	_	_	_	_	_	LangID=TR
+2	iyi	_	_	_	_	_	_	_	LangID=TR
+3	tatiller	_	_	_	_	_	_	_	LangID=TR
+4	,	_	_	_	_	_	_	_	LangID=OTHER
+5	iyi	_	_	_	_	_	_	_	LangID=TR
+6	bayramlar	_	_	_	_	_	_	_	LangID=TR
+7	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Sana	_	_	_	_	_	_	_	LangID=TR
+2	da	_	_	_	_	_	_	_	LangID=TR
+3	,	_	_	_	_	_	_	_	LangID=OTHER
+4	size	_	_	_	_	_	_	_	LangID=TR
+5	de	_	_	_	_	_	_	_	LangID=TR
+6	,	_	_	_	_	_	_	_	LangID=OTHER
+7	tschüß	_	_	_	_	_	_	_	LangID=DE
+8	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bihter	_	_	_	_	_	_	_	LangID=DE
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	sende	_	_	_	_	_	_	_	LangID=TR
+4	bu	_	_	_	_	_	_	_	LangID=TR
+5	metin	_	_	_	_	_	_	_	LangID=TR
+6	var	_	_	_	_	_	_	_	LangID=TR
+7	mı	_	_	_	_	_	_	_	LangID=TR
+8	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	İster	_	_	_	_	_	_	_	LangID=TR
+2	misin	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Özet	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	Mikail’de	_	_	_	_	_	_	_	LangID=MIXED
+4	birçok	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Kimin	_	_	_	_	_	_	_	LangID=TR
+2	o	_	_	_	_	_	_	_	LangID=TR
+3	özet	_	_	_	_	_	_	_	LangID=TR
+4	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Hanife’nin	_	_	_	_	_	_	_	LangID=TR
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Hanife’nin	_	_	_	_	_	_	_	LangID=TR
+2	mi	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Fazla	_	_	_	_	_	_	_	LangID=TR
+2	çektirmiş	_	_	_	_	_	_	_	LangID=TR
+3	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bakabilir	_	_	_	_	_	_	_	LangID=TR
+2	miyim	_	_	_	_	_	_	_	LangID=TR
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Wie	_	_	_	_	_	_	_	LangID=DE
+2	habt	_	_	_	_	_	_	_	LangID=DE
+3	ihr	_	_	_	_	_	_	_	LangID=DE
+4	denn	_	_	_	_	_	_	_	LangID=DE
+5	das	_	_	_	_	_	_	_	LangID=DE
+6	geschafft	_	_	_	_	_	_	_	LangID=DE
+7	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Was	_	_	_	_	_	_	_	LangID=DE
+2	denn	_	_	_	_	_	_	_	LangID=DE
+3	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Daß	_	_	_	_	_	_	_	LangID=DE
+2	das	_	_	_	_	_	_	_	LangID=DE
+3	doppelt	_	_	_	_	_	_	_	LangID=DE
+4	wurde	_	_	_	_	_	_	_	LangID=DE
+5	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	25'er	_	_	_	_	_	_	_	LangID=TR
+2	tane	_	_	_	_	_	_	_	LangID=TR
+3	çektirdim	_	_	_	_	_	_	_	LangID=TR
+4	ben	_	_	_	_	_	_	_	LangID=TR
+5	bunlardan	_	_	_	_	_	_	_	LangID=TR
+6	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	25	_	_	_	_	_	_	_	LangID=TR
+2	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Evet	_	_	_	_	_	_	_	LangID=TR
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Herkes	_	_	_	_	_	_	_	LangID=TR
+2	istedi	_	_	_	_	_	_	_	LangID=TR
+3	diye	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Arttı	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	işte	_	_	_	_	_	_	_	LangID=TR
+4	böyle	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Aha	_	_	_	_	_	_	_	LangID=TR
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bu	_	_	_	_	_	_	_	LangID=TR
+2	sonu	_	_	_	_	_	_	_	LangID=TR
+3	mu	_	_	_	_	_	_	_	LangID=TR
+4	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bilmiyorum	_	_	_	_	_	_	_	LangID=TR
+2	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Aşağıda	_	_	_	_	_	_	_	LangID=TR
+2	birini	_	_	_	_	_	_	_	LangID=TR
+3	bul	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Belki	_	_	_	_	_	_	_	LangID=TR
+2	isterler	_	_	_	_	_	_	_	LangID=TR
+3	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Frag'	_	_	_	_	_	_	_	LangID=DE
+2	doch	_	_	_	_	_	_	_	LangID=DE
+3	mal	_	_	_	_	_	_	_	LangID=DE
+4	unten	_	_	_	_	_	_	_	LangID=DE
+5	nach	_	_	_	_	_	_	_	LangID=DE
+6	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	İyi	_	_	_	_	_	_	_	LangID=TR
+2	tatiller	_	_	_	_	_	_	_	LangID=TR
+3	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Das	_	_	_	_	_	_	_	LangID=DE
+2	ist	_	_	_	_	_	_	_	LangID=DE
+3	sowieso	_	_	_	_	_	_	_	LangID=DE
+4	son	_	_	_	_	_	_	_	LangID=TR
+5	imtihan	_	_	_	_	_	_	_	LangID=TR
+6	,	_	_	_	_	_	_	_	LangID=OTHER
+7	yani	_	_	_	_	_	_	_	LangID=TR
+8	o	_	_	_	_	_	_	_	LangID=TR
+9	zaman	_	_	_	_	_	_	_	LangID=TR
+10	bir	_	_	_	_	_	_	_	LangID=TR
+11	şey	_	_	_	_	_	_	_	LangID=TR
+12	farketmez	_	_	_	_	_	_	_	LangID=TR
+13	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Okay	_	_	_	_	_	_	_	LangID=DE
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	hadi	_	_	_	_	_	_	_	LangID=TR
+4	tschüß	_	_	_	_	_	_	_	LangID=DE
+5	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Görüşüyoruz	_	_	_	_	_	_	_	LangID=TR
+2	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	İyi	_	_	_	_	_	_	_	LangID=TR
+2	bayramlar	_	_	_	_	_	_	_	LangID=TR
+3	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Wünsch	_	_	_	_	_	_	_	LangID=DE
+2	ich	_	_	_	_	_	_	_	LangID=DE
+3	dir	_	_	_	_	_	_	_	LangID=DE
+4	auch	_	_	_	_	_	_	_	LangID=DE
+5	,	_	_	_	_	_	_	_	LangID=OTHER
+6	auch	_	_	_	_	_	_	_	LangID=DE
+7	deiner	_	_	_	_	_	_	_	LangID=DE
+8	Schwester	_	_	_	_	_	_	_	LangID=DE
+9	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ok	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	danke	_	_	_	_	_	_	_	LangID=DE
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	[unintelligible]	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ok	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	sag'ich	_	_	_	_	_	_	_	LangID=DE
+4	tschüß	_	_	_	_	_	_	_	LangID=DE
+5	dann	_	_	_	_	_	_	_	LangID=DE
+6	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ciao	_	_	_	_	_	_	_	LangID=DE
+2	dann	_	_	_	_	_	_	_	LangID=DE
+3	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Sonuçta	_	_	_	_	_	_	_	LangID=TR
+2	bir	_	_	_	_	_	_	_	LangID=TR
+3	arada	_	_	_	_	_	_	_	LangID=TR
+4	gehen	_	_	_	_	_	_	_	LangID=DE
+5	yapıyor	_	_	_	_	_	_	_	LangID=TR
+6	,	_	_	_	_	_	_	_	LangID=OTHER
+7	yürüyor	_	_	_	_	_	_	_	LangID=TR
+8	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Bu	_	_	_	_	_	_	_	LangID=TR
+2	yıl	_	_	_	_	_	_	_	LangID=TR
+3	arkadaşlar	_	_	_	_	_	_	_	LangID=TR
+4	yürüttüler	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Ama	_	_	_	_	_	_	_	LangID=TR
+2	aslında	_	_	_	_	_	_	_	LangID=TR
+3	yürümez	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Çünkü	_	_	_	_	_	_	_	LangID=TR
+2	master	_	_	_	_	_	_	_	LangID=TR
+3	ağır	_	_	_	_	_	_	_	LangID=TR
+4	ve	_	_	_	_	_	_	_	LangID=TR
+5	süper	_	_	_	_	_	_	_	LangID=TR
+6	araştırma	_	_	_	_	_	_	_	LangID=TR
+7	gerektiren	_	_	_	_	_	_	_	LangID=TR
+8	bir	_	_	_	_	_	_	_	LangID=TR
+9	olay	_	_	_	_	_	_	_	LangID=TR
+10	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Çalışmayla	_	_	_	_	_	_	_	LangID=TR
+2	bir	_	_	_	_	_	_	_	LangID=TR
+3	arada	_	_	_	_	_	_	_	LangID=TR
+4	yürümez	_	_	_	_	_	_	_	LangID=TR
+5	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Araştırma	_	_	_	_	_	_	_	LangID=TR
+2	yani	_	_	_	_	_	_	_	LangID=TR
+3	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Peki	_	_	_	_	_	_	_	LangID=TR
+2	çok	_	_	_	_	_	_	_	LangID=TR
+3	teşekkürler	_	_	_	_	_	_	_	LangID=TR
+4	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Yani	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	lisans	_	_	_	_	_	_	_	LangID=TR
+4	eğitiminden	_	_	_	_	_	_	_	LangID=TR
+5	farklıdır	_	_	_	_	_	_	_	LangID=TR
+6	bak	_	_	_	_	_	_	_	LangID=TR
+7	,	_	_	_	_	_	_	_	LangID=OTHER
+8	lisansta	_	_	_	_	_	_	_	LangID=TR
+9	sadece	_	_	_	_	_	_	_	LangID=TR
+10	sınava	_	_	_	_	_	_	_	LangID=TR
+11	girmekle	_	_	_	_	_	_	_	LangID=TR
+12	halledersin	_	_	_	_	_	_	_	LangID=TR
+13	,	_	_	_	_	_	_	_	LangID=OTHER
+14	burada	_	_	_	_	_	_	_	LangID=TR
+15	öyle	_	_	_	_	_	_	_	LangID=TR
+16	değildir	_	_	_	_	_	_	_	LangID=TR
+17	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Lisansla	_	_	_	_	_	_	_	LangID=TR
+2	master	_	_	_	_	_	_	_	LangID=LANG3
+3	unterschiedlich	_	_	_	_	_	_	_	LangID=DE
+4	?	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Tabii	_	_	_	_	_	_	_	LangID=TR
+2	,	_	_	_	_	_	_	_	LangID=OTHER
+3	tabii	_	_	_	_	_	_	_	LangID=TR
+4	,	_	_	_	_	_	_	_	LangID=OTHER
+5	he	_	_	_	_	_	_	_	LangID=TR
+6	,	_	_	_	_	_	_	_	LangID=OTHER
+7	her	_	_	_	_	_	_	_	LangID=TR
+8	şey	_	_	_	_	_	_	_	LangID=TR
+9	farklı	_	_	_	_	_	_	_	LangID=TR
+10	.	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Çok	_	_	_	_	_	_	_	LangID=TR
+2	sağolun	_	_	_	_	_	_	_	LangID=TR
+3	!	_	_	_	_	_	_	_	LangID=OTHER
+
+1	Başarılar	_	_	_	_	_	_	_	LangID=TR
+2	!	_	_	_	_	_	_	_	LangID=OTHER
+
